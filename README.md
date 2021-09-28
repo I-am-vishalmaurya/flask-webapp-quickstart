@@ -11,7 +11,7 @@ To complete this tutorial:
 
 ## Create app and run it locally
 
-First create a root folder, name it e.g. ```flask-quickstart``` and create a single ```app``` folder inside the root folder. Now let's write our app, copy and paste the following code into ```app/main.py```:
+First create a root folder, name it e.g. ```flask-quickstart``` and create a single ```app``` folder inside the root folder. Now let's write our app, copy and paste the following code into ```app/app.py```:
 
 ```python
 from flask import Flask
